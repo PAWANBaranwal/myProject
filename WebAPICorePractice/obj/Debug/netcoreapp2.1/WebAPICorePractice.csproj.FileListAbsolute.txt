@@ -1,0 +1,17 @@
+G:\WebAPICorePractice\WebAPICorePractice\bin\Debug\netcoreapp2.1\WebAPICorePractice.deps.json
+G:\WebAPICorePractice\WebAPICorePractice\bin\Debug\netcoreapp2.1\WebAPICorePractice.runtimeconfig.json
+G:\WebAPICorePractice\WebAPICorePractice\bin\Debug\netcoreapp2.1\WebAPICorePractice.runtimeconfig.dev.json
+G:\WebAPICorePractice\WebAPICorePractice\bin\Debug\netcoreapp2.1\WebAPICorePractice.dll
+G:\WebAPICorePractice\WebAPICorePractice\bin\Debug\netcoreapp2.1\WebAPICorePractice.pdb
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.csprojAssemblyReference.cache
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.csproj.CoreCompileInputs.cache
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.RazorAssemblyInfo.cache
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.RazorAssemblyInfo.cs
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.AssemblyInfoInputs.cache
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.AssemblyInfo.cs
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.RazorTargetAssemblyInfo.cache
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.dll
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.pdb
+G:\WebAPICorePractice\WebAPICorePractice\bin\Debug\netcoreapp2.1\Repository.dll
+G:\WebAPICorePractice\WebAPICorePractice\bin\Debug\netcoreapp2.1\Repository.pdb
+G:\WebAPICorePractice\WebAPICorePractice\obj\Debug\netcoreapp2.1\WebAPICorePractice.csproj.CopyComplete
